@@ -1,0 +1,5 @@
+PyPDF2
+streamlit
+streamlit-option-menu
+pandas
+python-docx
