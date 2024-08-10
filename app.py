@@ -2,7 +2,7 @@ from PyPDF2 import PdfReader
 import streamlit as st
 from streamlit_option_menu import option_menu
 import pandas as pd
-#import openpyxl
+import openpyxl
 from docx.api import Document
 
 
